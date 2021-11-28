@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=J?-1A
+Removed Pin From Net: NetName=NetC1_1 Pin=J?-1B
+Removed Pin From Net: NetName=NetC1_1 Pin=J?-1
+Removed Pin From Net: NetName=NetC2_1 Pin=P1-3
+Removed Pin From Net: NetName=NetC1_1 Pin=P?-1
+Removed Pin From Net: NetName=NetC1_1 Pin=P?-1
+Change Component Designator: OldDesignator=P? NewDesignator=pl
+Change Component Designator: OldDesignator=P? NewDesignator=pl
+Added Component: Designator=D?(DIODE-0.7)
+Added Component: Designator=ph(HDR1X2)
+Added Component: Designator=Ph(HDR1X2)
+Added Component: Designator=R?(AXIAL-0.4)
+Added Component: Designator=R?(AXIAL-0.4)
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=GND Pin=ph-1
+Added Pin To Net: NetName=GND Pin=Ph-1
+Added Pin To Net: NetName=GND Pin=ph-2
+Added Pin To Net: NetName=GND Pin=Ph-2
+Added Pin To Net: NetName=NetC2_1 Pin=pl-1
+Added Pin To Net: NetName=NetC2_1 Pin=pl-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=NetC2_1 Pin=R?-1
+Added Pin To Net: NetName=NetC1_1 Pin=R?-2
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=P1-3
+Added Pin To Net: NetName=NetD?_2 Pin=R?-2
+Added Net: Name=NetD?_2
+Added Pin To Net: NetName=NetJ?_1 Pin=J?-1
+Added Pin To Net: NetName=NetJ?_1 Pin=J?-1A
+Added Pin To Net: NetName=NetJ?_1 Pin=J?-1B
+Added Net: Name=NetJ?_1
+Added Member To Class: ClassName=Sheet1 Member=Component ph Header 2
+Added Member To Class: ClassName=Sheet1 Member=Component R? Res2

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=Q?-1
+Removed Pin From Net: NetName=GND Pin=Q?-2
+Removed Pin From Net: NetName=NetC2_1 Pin=Q?-3
+Removed Member From Class: ClassName=Sheet1 Member=Q?
+Added Component: Designator=7805(E3)
+Added Pin To Net: NetName=NetC1_1 Pin=7805-1
+Added Pin To Net: NetName=GND Pin=7805-2
+Added Pin To Net: NetName=NetC2_1 Pin=7805-3
+Change Net Name : Old Net Name=NetC1_1 New Net Name=Net7805_1
+Change Net Name : Old Net Name=NetC2_1 New Net Name=Net7805_3
+Added Member To Class: ClassName=Sheet1 Member=Component 7805 MOSFET-N
+Added Member To Class: ClassName=Sheet1 Member=Component C1 Cap

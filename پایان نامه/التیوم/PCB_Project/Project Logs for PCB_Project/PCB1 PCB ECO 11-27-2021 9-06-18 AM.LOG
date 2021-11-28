@@ -1,0 +1,8 @@
+Change Component Comment : Designator=1N5245B Old Comment=D Zener New Comment=1N5245B
+Change Component Comment : Designator=D3 Old Comment=D Zener New Comment=1N5338BRL
+Change Component Designator: OldDesignator=1N5245B NewDesignator=D1
+Change Component Designator: OldDesignator=1uF NewDesignator=C2
+Change Component Designator: OldDesignator=10 NewDesignator=r1
+Change Component Designator: OldDesignator=10 NewDesignator=r2
+Change Component Designator: OldDesignator=470uF NewDesignator=C1
+Added Member To Class: ClassName=Sheet1 Member=Component D3 1N5338BRL
