@@ -1,7 +1,0 @@
-Added Component: Designator=D?(DIODE-0.7)
-Added Component: Designator=D?(DO-41)
-Added Pin To Net: NetName=GND Pin=D?-1
-Added Pin To Net: NetName=GND Pin=D?-1
-Added Pin To Net: NetName=NetC1_1 Pin=D?-2
-Added Pin To Net: NetName=NetC1_1 Pin=D?-2
-Added Member To Class: ClassName=Sheet1 Member=Component D? D Zener

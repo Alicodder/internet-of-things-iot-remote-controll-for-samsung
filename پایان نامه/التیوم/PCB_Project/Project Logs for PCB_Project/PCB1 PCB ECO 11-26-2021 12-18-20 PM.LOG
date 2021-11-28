@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=NetC2_1 Pin=Q?-1
-Removed Pin From Net: NetName=NetC1_1 Pin=Q?-3
-Change Component DesignItemId : Designator=Q? Old DesignItemId=2N3904 New DesignItemId=MOSFET-N
-Change Component Footprint: Designator=Q? Old Footprint=TO-92A New Footprint=E3
-Change Component Comment : Designator=Q? Old Comment=2N3904 New Comment=MOSFET-N
-Added Pin To Net: NetName=NetC1_1 Pin=Q?-1
-Added Pin To Net: NetName=NetC2_1 Pin=Q?-3
