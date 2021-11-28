@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=J?-2A
+Removed Pin From Net: NetName=GND Pin=J?-2B
+Removed Pin From Net: NetName=GND Pin=J?-2
+Removed Pin From Net: NetName=GND Pin=J?-3A
+Removed Pin From Net: NetName=GND Pin=J?-3B
+Removed Pin From Net: NetName=GND Pin=J?-3
+Removed Pin From Net: NetName=NetJ?_1 Pin=ph-1
+Removed Pin From Net: NetName=NetJ?_1 Pin=Ph-1
+Removed Pin From Net: NetName=NetJ?_1 Pin=R?-1
+Added Pin To Net: NetName=NetJ?_2 Pin=J?-2
+Added Pin To Net: NetName=NetJ?_2 Pin=J?-2A
+Added Pin To Net: NetName=NetJ?_2 Pin=J?-2B
+Added Net: Name=NetJ?_2
+Added Pin To Net: NetName=NetJ?_3 Pin=J?-3
+Added Pin To Net: NetName=NetJ?_3 Pin=J?-3A
+Added Pin To Net: NetName=NetJ?_3 Pin=J?-3B
+Added Net: Name=NetJ?_3
+Added Pin To Net: NetName=NetPh_1 Pin=Ph-1
+Added Pin To Net: NetName=NetPh_1 Pin=ph-1
+Added Pin To Net: NetName=NetPh_1 Pin=R?-1
+Added Net: Name=NetPh_1
