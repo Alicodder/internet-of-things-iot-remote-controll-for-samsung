@@ -1,0 +1,5 @@
+Change Component Comment : Designator=C2 Old Comment=Cap New Comment=1uF
+Change Component Comment : Designator=C1 Old Comment=Cap New Comment=470uF
+Added Member To Class: ClassName=Sheet1 Member=Component D1 LED1
+Added Member To Class: ClassName=Sheet1 Member=Component D2 LED1
+Added Member To Class: ClassName=Sheet1 Member=Component D3 LED1

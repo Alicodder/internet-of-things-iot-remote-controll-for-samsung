@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=Q1-1
+Removed Pin From Net: NetName=NetDT1_2 Pin=Q1-3
+Change Component DesignItemId : Designator=Q1 Old DesignItemId=2N3904 New DesignItemId=Header 3
+Change Component DesignItemId : Designator=7805 Old DesignItemId=MOSFET-N New DesignItemId=Header 3
+Change Component Footprint: Designator=7805 Old Footprint=E3 New Footprint=HDR1X3
+Change Component Footprint: Designator=Q1 Old Footprint=TO-92A New Footprint=HDR1X3
+Change Component Comment : Designator=Q1 Old Comment=2N3904 New Comment=Header 3
+Change Component Comment : Designator=7805 Old Comment=MOSFET-N New Comment=Header 3
+Change Component Designator: OldDesignator=switch NewDesignator=P2
+Change Component Designator: OldDesignator=T1 NewDesignator=DT1
+Change Component Designator: OldDesignator=T2 NewDesignator=DT2
+Change Component Designator: OldDesignator=T3 NewDesignator=DT3
+Change Component Designator: OldDesignator=T4 NewDesignator=DT4
+Added Pin To Net: NetName=NetDT1_2 Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-3
